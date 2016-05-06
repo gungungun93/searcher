@@ -1,7 +1,7 @@
 package searcher
 
 import(
-	"tokenizer"
+	"github.com/gungungun93/tokenizer"
 	"math"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
